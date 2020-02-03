@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Ping Pong X</string>
+    <string name="tv_versus">X</string>
+    <string name="home_name">Casa</string>
+    <string name="visitor_name">Visitante</string>
+    <string name="tv_score">Ponto</string>
 </resources>
